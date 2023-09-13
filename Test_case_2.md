@@ -5,3 +5,4 @@ ID | Summary | Pre-conditions | Steps | Expected results
 
 
   
+![6fc910dc88918ed7efe308c39ff67301_w200](https://github.com/VladislavBroPiton/Test-Case/assets/132227845/a93806b5-4d2c-471a-8058-1424a8a33575)
