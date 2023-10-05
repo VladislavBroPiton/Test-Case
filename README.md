@@ -24,7 +24,7 @@ ID | Summary | Pre-conditions | Steps | Expected results
 4. Излишней детализации.   
 
 
-Еще пример Тест кейса(Расширенный):
+### Еще пример Тест кейса(Расширенный):
 
 ID | Summary | Pre-conditions | Steps | Expected results | Environment | Comments
 :--|:-------:|:--------------:|:-----:|-----------------: | ----: | ----:
