@@ -4,3 +4,4 @@ ID | Summary | Pre-conditions | Steps | Expected results
   
 
 ![giphy](https://github.com/VladislavBroPiton/Test-Case/assets/132227845/00cf9420-8e4d-4288-86c6-a8015fdf0dfe)
+  
